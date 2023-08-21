@@ -13,7 +13,7 @@ as a Software Engineer. With some hands on experience and a proactive approach, 
 
 ## Projects
  1 GreatKart - An Ecommerce Website
-  * Technologies used - HTML5, CSS3, BootStrap, JavaScript, jQuery, Django, SQL, PayPal Payment Gateway System.
+  *Technologies used - HTML5, CSS3, BootStrap, JavaScript, jQuery, Django, SQL, PayPal Payment Gateway System.
   * Greakart is an ecommerce website on which a user can create an account, log into that account, view products, add them to cart and buy them.
   * Created the UI of website using HTML, CSS and jQuery.
   * Intregated the backend of the website with Django
