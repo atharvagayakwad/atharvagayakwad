@@ -4,6 +4,9 @@
 Highly motivated and dedicated Computer Engineering graduate with a strong passion for Software Development and a desire to pursue a career
 as a Software Engineer. With some hands on experience and a proactive approach, I will contribute in innovative projects as a Software Engineer.
 
+## Education
+Bachelor of Enginnering in Computer Science, ISBM College of Engineering, Pune
+
 ## Technical Skills
   * Programming Languages: Java, Python
   * Technologies: HTML5, CSS, JavaScript
