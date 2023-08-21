@@ -31,7 +31,5 @@ as a Software Engineer. With some hands on experience and a proactive approach, 
   * Deployed the website on Render.
 
 ## Social 🌏
-[1] https://www.linkedin.com/in/atharva-gayakwad-1b373020a/  "Linkedin"
-
-[2] atharvagayakwad3011@gmail.com  "Email-id"
-  
+Email - atharvagayakwad3011@gmail.com
+Linkedin - https://www.linkedin.com/in/atharva-gayakwad-1b373020a/
